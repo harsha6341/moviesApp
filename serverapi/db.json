@@ -1,0 +1,59 @@
+{
+  "Movies": [
+    {
+      "id": "831e0d86-e447-4c76-a5d6-a7c639dd4fe0",
+      "name": "avatar",
+      "type": "scifi"
+    },
+    {
+      "id": "ed105569-034f-41b2-b45b-2cc1636c11a0",
+      "name": "titanic",
+      "type": "love"
+    },
+    {
+      "id": "d208eeed-8a81-4d43-b9d9-ffb16d64487e",
+      "name": "game",
+      "type": "action"
+    },
+    {
+      "id": "24daafa3-757e-4130-ab24-81b382da2971",
+      "name": "speed",
+      "type": "action"
+    },
+    {
+      "name": "baby",
+      "type": "love",
+      "id": "1d2cca36-4860-44b9-bcd5-f513a17f147a"
+    },
+    {
+      "name": "phone",
+      "type": "horror",
+      "id": "3d5245c9-c1c2-4e61-b2f2-5b3e545eba83"
+    },
+    {
+      "id": "01340513-6cef-4ac0-b86d-ecb251bb50c0",
+      "name": "thee",
+      "type": "comedy"
+    },
+    {
+      "id": "5e7efe5b-61bb-4637-acb4-100937e4856b",
+      "name": "veer",
+      "type": "action"
+    },
+    {
+      "name": "veerssss",
+      "type": "action",
+      "id": "e9100a26-bf03-4a0a-93a4-4924cc14b909"
+    },
+    {
+      "name": "shitssss",
+      "type": "horror",
+      "id": "8fd27d53-1fc3-4d0b-9daa-b6ca44f16876"
+    },
+    {
+      "id": "9220bda7-e23e-4ea0-bf7c-5faf424f61d9",
+      "name": "",
+      "type": ""
+    }
+  ]
+}
